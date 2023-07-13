@@ -194,7 +194,6 @@ video {
     align-items: flex-start;
 }
 .galeria img {
-    transition: all 2s ease-in-out;
     border-radius: 0px;
 }
 

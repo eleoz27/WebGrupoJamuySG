@@ -195,7 +195,7 @@ video {
 }
 .galeria img {
     transition: all 2s ease-in-out;
-    border-radius: 5px;
+    border-radius: 0px;
 }
 
 .galeria-col1,.galeria-col2,.galeria-col3 {
@@ -233,8 +233,7 @@ video {
     margin: 25px;
 }
 .cta-img img {
-    border-radius: 5px;
-
+    border-radius: 0px;
 }
 .portafolio-sec {
     display: flex;

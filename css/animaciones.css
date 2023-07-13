@@ -27,10 +27,6 @@
     animation: fade-animation 2.5s ease;
 }
 
-.galeria img:hover{
-    transform: scale(1.1);
-}
-
 .form button:hover{
     background-color: var(--negro);
 }

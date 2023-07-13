@@ -1,0 +1,41 @@
+.boton-menu:hover a {
+    font-size: 26px;
+}
+.boton-slider:hover {
+    color: var(--blanco);
+    background-color: #e30042;
+}
+.portafolio-sec a:hover{
+    color: var(--blanco);
+    background-color: #e30042;
+}
+.boton-izquierda:hover, .boton-derecha:hover {
+    background-color: #000;
+}
+
+@keyframes fade-animation{
+    to {
+        opacity: 1;
+        
+    }
+    from {
+        opacity: 0.8;
+    }
+}
+
+.fade-animation {
+    animation: fade-animation 2.5s ease;
+}
+
+.galeria img:hover{
+    transform: scale(1.1);
+}
+
+.form button:hover{
+    background-color: var(--negro);
+}
+
+.svg a:hover{
+    background-color: var(--negro);
+}
+

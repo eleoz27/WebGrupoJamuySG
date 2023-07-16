@@ -186,6 +186,25 @@
         color: #fff;
         font-size: 18px;
     }
+    /*Biblioteca AOS*/
+    [data-aos="fade-right"] {
+        transform: none !important;
+    }
+    [data-aos="fade-left"] {
+        transform: none !important;
+    }
+    [data-aos="fade-down-right"] {
+        transform: none !important;
+    }
+[data-aos="fade-down-left"] {
+        transform: none !important;
+    }
+[data-aos="fade-up-left"] {
+        transform: none !important;
+    }
+[data-aos="fade-up-right"] {
+        transform: none !important;
+    }
 }
 
 
@@ -284,5 +303,24 @@
     .portafolio-sec a {
         font-size: 18px;
         padding: 15px 45px;
+    }
+    /*Biblioteca AOS*/
+    [data-aos="fade-right"] {
+        transform: none !important;
+    }
+    [data-aos="fade-left"] {
+        transform: none !important;
+    }
+    [data-aos="fade-down-right"] {
+        transform: none !important;
+    }
+[data-aos="fade-down-left"] {
+        transform: none !important;
+    }
+[data-aos="fade-up-left"] {
+        transform: none !important;
+    }
+[data-aos="fade-up-right"] {
+        transform: none !important;
     }
 }
